@@ -7,5 +7,7 @@ Pruebaaaa
 Prueba desde VSCode
 
 desde bash: 
+
 cd /home/adegea/mysite
+
 git pull https://github.com/alfonsogildegea/pythonanywhere.git
